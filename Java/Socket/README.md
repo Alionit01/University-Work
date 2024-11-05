@@ -12,7 +12,7 @@ This project includes two main components:
 - **Client**: Connects to the server, takes a message from the user, and sends it to the server. It then receives a response from the server and displays it.
 - **Server**: Waits for a client to connect, receives a message from the client, and sends a response back to the client.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Java Development Kit (JDK) 8 or later
